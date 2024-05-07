@@ -8,6 +8,6 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 public class VendasApplication extends SpringBootServletInitializer {
 
     public static void main(String[] args) {
-        SpringApplication.run(VendasApplication.class, args);
+        SpringApplication.run(VendasApplication.class, args) ;
     }
 }
